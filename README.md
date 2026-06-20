@@ -128,7 +128,3 @@ Simulated for the hackathon:
 - Employer payment collection/test card UX.
 - The fallback monthly allowance of `30,000 ALL` for demo accounts.
 - Some seeded marketplace/provider data.
-
-## Publishing Notes
-
-Do not commit real `.env` files, `node_modules`, build output, or generated local metadata. Use `.env.example` for required configuration.
