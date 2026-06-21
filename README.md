@@ -6,7 +6,6 @@ The platform connects **employees**, **employers**, and **service providers** in
 
 PERX was built for the **JunctionX Tirana / TeamSystem challenge**.
 
-```md
 ![PERX landing page](docs/screenshots/01-landing-page.png)
 
 ### Responsive Mobile View
@@ -17,8 +16,6 @@ PERX is designed to work smoothly on smaller screens, so employees can discover 
   <img src="docs/screenshots/27-mobile-tablet.png" alt="PERX responsive tablet view" width="360" />
   <img src="docs/screenshots/28-mobile-phone.png" alt="PERX mobile phone view" width="240" />
 </p>
-```
-
 
 ---
 
