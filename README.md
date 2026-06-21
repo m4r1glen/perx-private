@@ -35,6 +35,16 @@ PERX was built for the **JunctionX Tirana / TeamSystem challenge**.
 
 ---
 
+## Live Demo
+
+The PERX demo is available here:
+
+**Demo:** https://project-7xnzk.vercel.app
+
+Use the demo accounts below to test the employee, employer, and service provider flows.
+
+---
+
 ## Core Idea
 
 PERX turns employee benefits into a marketplace.
