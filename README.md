@@ -49,7 +49,7 @@ PERX is designed to work smoothly on smaller screens, so employees can discover 
 
 The PERX demo is available here:
 
-**Demo:** https://project-7xnzk.vercel.app
+**Demo:** https://perx-foundation-main.vercel.app/
 
 Use the demo accounts below to test the employee, employer, and service provider flows.
 
