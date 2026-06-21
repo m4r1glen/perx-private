@@ -1,0 +1,9 @@
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'One Albania%' OR business_name ILIKE '%One Albania%' OR business_name ILIKE 'One %';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Mediplus%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Elite Travel%' OR business_name ILIKE '%Elite Travel%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Zenith%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Albtravel%' OR business_name ILIKE 'Alb Travel%' OR business_name ILIKE 'Alb-Travel%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Sophie%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Artigiano%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Conad%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Berlitz%';

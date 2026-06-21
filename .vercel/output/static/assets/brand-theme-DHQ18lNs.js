@@ -1,0 +1,1 @@
+function e(e){}function t(){typeof document>`u`||document.getElementById(`perx-company-brand`)?.remove()}export{t as n,e as t};

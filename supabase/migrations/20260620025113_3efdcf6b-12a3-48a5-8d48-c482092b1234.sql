@@ -1,0 +1,10 @@
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Vodafone%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Fitness First%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Serotonin%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Spa Lavanda%' OR business_name ILIKE '%Lavanda%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Ritual Spa%' OR business_name ILIKE '%Ritual%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE '%Yoga%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Thalasso%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Mullixhiu%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'Oda%';
+UPDATE public.providers SET logo_url = NULL WHERE business_name ILIKE 'LIFT%';
