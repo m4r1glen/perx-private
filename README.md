@@ -12,6 +12,7 @@ PERX was built for the **JunctionX Tirana / TeamSystem challenge**.
 
 ## Table of Contents
 
+- [Live Demo](#live-demo)
 - [Core Idea](#core-idea)
 - [Problem](#problem)
 - [Solution](#solution)
